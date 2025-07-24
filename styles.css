@@ -23,7 +23,7 @@ body {
     display: flex;
     flex-direction: column;
     height: fit-content;
-    width: 200px;
+    width: 300px;
   }
 }
 .card {
@@ -44,7 +44,7 @@ body {
     display: flex;
     flex-direction: column;
     height: fit-content;
-    width: 200px;
+    width: 300px;
   }
 }
 .card-large::before {
@@ -86,7 +86,7 @@ body {
     display: flex;
     flex-direction: column;
     height: fit-content;
-    width: 200px;
+    width: 300px;
   }
 }
 .card2 {
